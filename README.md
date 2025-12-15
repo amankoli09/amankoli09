@@ -44,9 +44,7 @@
 
 <h2>My Contribution</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amankoli09/amankoli09/output/github-contribution-grid-snake.svg" />
-</p>
+<img src="https://raw.githubusercontent.com/amankoli09/snake1/refs/heads/main/github-user-contribution-3.svg" alt="GitHub Snake" width="4000">
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
