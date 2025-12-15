@@ -65,7 +65,7 @@
 <div align="center">
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="Activity Graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amankoli09&theme=react-dark" alt="Aman Koli's Contribution Graph" style="max-width:900px;width:100%;height:auto;" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amankoli09&theme=react-dark" alt="Aman Koli's Contribution Graph" style="max-width:500px;width:100%;height:auto;" />
   </a>
 
   <div style="margin-top:12px;display:flex;gap:12px;justify-content:center;flex-wrap:wrap;align-items:center;">
