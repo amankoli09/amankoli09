@@ -41,7 +41,7 @@
 
 </div>
 
-<h2>My Contribution</h2>
+<h2 align="center">My Contribution</h2>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
