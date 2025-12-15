@@ -18,10 +18,6 @@
   💡 I enjoy solving problems, building projects, and participating in hackathons.
 </p>
 
-<p>
-  <img src="https://i.imgur.com/dBaSKWF.gif" alt="separator" style="height:400px;width:9000%;object-fit:cover;" />
-</p>
-
 <div align="center">
 
 <h2>Connect with Me</h2> 
