@@ -19,7 +19,7 @@
 </p>
 
 <p>
-  <img src="https://i.imgur.com/dBaSKWF.gif" alt="separator" style="height:40px;width:400%;object-fit:cover;" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" alt="separator" style="height:100px;width:400%;object-fit:cover;" />
 </p>
 
 <div align="center">
