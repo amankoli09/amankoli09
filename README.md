@@ -1,7 +1,4 @@
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&lines=Hi+I'm+Aman+Koli!+👋" />
-</h1>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFB60&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 <h2>Welcome to my GitHub profile!</h2>
 
 <div align="center">
