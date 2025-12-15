@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFB60&width=500&height=70&lines=Heyyy+I'm+Aman+koli+%E2%98%BA%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFB60&width=500&height=90&lines=Heyyy+I'm+Aman+koli+%E2%98%BA%EF%B8%8F" alt="Typing SVG" /></a>
 <h2>Welcome to my GitHub profile!</h2>
 
 <div align="center">
