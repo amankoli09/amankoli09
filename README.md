@@ -1,7 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFB60&width=435&lines=Heyyy+I'm+Aman+koli+%E2%98%BA%EF%B8%8F" alt="Typing SVG" /></a>
-<div align="center">
-  <img src="https://cdn.dribbble.com/userupload/24934347/file/original-e9e50db8bb75bfc3cd56779c716e5914.gif" alt="Coding Work From Home GIF by Domme Space" style="max-width:1700px;width:80%;max-height:400px;height:auto;object-fit:contain;" />
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFB60&width=500&height=70&lines=Heyyy+I'm+Aman+koli+%E2%98%BA%EF%B8%8F" alt="Typing SVG" /></a>
 
 <h2>🚀 About Me</h2>
 
