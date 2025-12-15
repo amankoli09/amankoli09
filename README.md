@@ -64,17 +64,16 @@
 
 <div align="center">
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="Activity Graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amankoli09&theme=react-dark" alt="Aman Koli's Contribution Graph" style="max-width:500px;width:100%;height:auto;" />
-  </a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkoli145&theme=react-dark" alt="Raj Koli's Contribution Graph" width="900">
+</a>
 
-  <div style="margin-top:12px;display:flex;gap:12px;justify-content:center;flex-wrap:wrap;align-items:center;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amankoli09&theme=solarized" alt="Repos per language" style="max-width:320px;width:100%;height:auto;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amankoli09&theme=transparent" alt="Most commit language" style="max-width:320px;width:100%;height:auto;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amankoli09&theme=transparent" alt="Stats" style="max-width:320px;width:100%;height:auto;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amankoli09&theme=solarized&utcOffset=5.3" alt="Productive time" style="max-width:320px;width:100%;height:auto;" />
-  </div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajkoli145&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajkoli145&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajkoli145&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajkoli145&theme=solarized&utcOffset=5.3)
 
 </div>
+
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amankoli09" alt="amankoli09" /></a></p>
 
