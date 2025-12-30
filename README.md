@@ -22,13 +22,13 @@
 <a href="https://www.instagram.com/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
 </a>
-<a href="mailto:" title="Gmail">
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
 </a>
 <a href="https://www.linkedin.com/in/aman-koli-773510331/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
 </a>
-<a href="https://x.com/" title="Twitter">
+<a href="https://x.com/koliaman09" title="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
 </a>
 
