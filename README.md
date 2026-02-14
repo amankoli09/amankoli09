@@ -2,7 +2,7 @@
 <h2>Welcome to my GitHub profile!</h2>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/userupload/24934347/file/original-e9e50db8bb75bfc3cd56779c716e5914.gif" alt="Coding Work From Home GIF by Domme Space" style="max-width:1700px;width:80%;max-height:400px;height:auto;object-fit:contain;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding Work From Home GIF by Domme Space" style="max-width:1700px;width:80%;max-height:400px;height:auto;object-fit:contain;" />
 </div>
 
 <h2>🚀 About Me</h2>
