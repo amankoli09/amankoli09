@@ -8,11 +8,11 @@
 <h2>🚀 About Me</h2>
 
 <p>
-  👨‍💻 I am a Passionate Learner<br>
-  🚀 A coding enthusiast weaving a digital journey that blends creativity and innovation into meaningful solutions.<br>
-  🌱 I’m currently learning Generative AI, C++, and Google AppSheet to expand my expertise in emerging technologies.<br>
-  ⚡ I am also interested in Web Development, Machine Learning, Artificial Intelligence, and Augmented Reality.<br>
-  💡 I enjoy solving problems, building projects, and participating in hackathons.
+  👨‍💻 CSE Student | Passionate Developer<br>
+  🚀 I love turning ideas into real-world digital solutions through clean and efficient code.<br>
+  🌱 Currently exploring Generative AI, C++, and modern web technologies.<br>
+  ⚡ Interested in Web Development, Machine Learning, Artificial Intelligence, and Augmented Reality.<br>
+  💡 Always building, learning, and participating in hackathons to grow and innovate.
 </p>
 
 <div align="center">
@@ -34,8 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,py,c,cpp,html,css,mysql,anaconda,linkedin,postman,vscode" />
-    <img src="https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="Scratch" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=git,github,js,react,nodejs,tailwind,py,c,cpp,html,css,mysql,mongodb,anaconda,linkedin,postman,vscode" />
   </a>
 </p>
 
@@ -57,20 +56,17 @@
   />
 </picture>
 
-<!-- Removed a broken GitHub Snake image to avoid a large empty/404 image box. -->
-
 <div align="center">
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkoli145&theme=react-dark" alt="Raj Koli's Contribution Graph" width="900">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amankoli09&theme=react-dark" alt="Aman Koli's Contribution Graph" width="900">
 </a>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajkoli145&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajkoli145&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajkoli145&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajkoli145&theme=solarized&utcOffset=5.3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amankoli09&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amankoli09&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amankoli09&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amankoli09&theme=solarized&utcOffset=5.3)
 
 </div>
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amankoli09" alt="amankoli09" /></a></p>
-
