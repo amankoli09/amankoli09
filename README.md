@@ -40,6 +40,9 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-FF69B4?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00E6DB?style=flat-square&logo=netlify&logoColor=black&labelColor=00E6DB"/>
+<img src="https://img.shields.io/badge/Render-FF69B4?style=flat-square&logo=render&logoColor=white"/>
 </p>
 
 <div align="center">
