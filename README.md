@@ -1,14 +1,19 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFB60&width=500&height=90&lines=Heyyy+I'm+Aman+koli+%E2%98%BA%EF%B8%8F" alt="Typing SVG" /></a>
 <h2>Welcome to my GitHub profile!</h2>
 
-<h3>👨‍💻 About Me</h3>
 <img align="right" width="350" src="https://github.com/user-attachments/assets/4140bfb2-5497-4119-823c-fb66b333b98d"/>
 
-✨ Passionate CSE Student & Developer  
-🚀 Building modern web experiences with clean UI  
-🤖 Exploring Generative AI & smart systems  
-💡 Love turning ideas into real-world projects  
-⚡ Always learning, building & improving every day  
+## About Me
+
+Passionate Developer focused on building impactful digital experiences.
+
+- Crafting modern web applications with clean, intuitive UI/UX.
+- Exploring Generative AI, Machine Learning, and intelligent systems.
+- Turning innovative ideas into practical, real-world solutions.
+- Contributing to open-source projects and collaborative development.
+- Constantly experimenting with new technologies and refining my skills.
+
+**Building. Exploring. Innovating.** 
 
 <h3>🛠️ Tech Stack</h3>
 <p align="left">
